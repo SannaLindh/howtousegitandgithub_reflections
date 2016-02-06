@@ -1,0 +1,24 @@
+Reflections from "how to use git and github"
+
+shouldn't hac´ve had that glass of wine, I find it so hard concentrating.
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It removed all those lines that were the same meaning instead of looking for a needel in a big haystack I could go looking for a needel in a signifantly smaller haystack.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+If I fuck up or tried something riscky I don't need to rewrite all the code (if I evenr remember it)but can go back to a version before the fuck-up.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+If I commit manually I'm 100% sure that I'll forget about it vs if it's saved automatically I'll not know where in the project I am.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is more specialliced on coding witch means that they the assume that the user are usint multiple files.
+
+How can you use the commands git log and git diff to view the history of files?
+To find old changes and see where it all went wrong.
+
+How might using version control make you more confident to make changes that could break something?
+FIX THINGS! I CAN!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+As a fallback so I don't have to worry about making misstakes.
+
